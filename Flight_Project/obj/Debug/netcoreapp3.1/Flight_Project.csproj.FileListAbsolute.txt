@@ -1,0 +1,11 @@
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\obj\Debug\netcoreapp3.1\Flight_Project.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\obj\Debug\netcoreapp3.1\Flight_Project.AssemblyInfoInputs.cache
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\obj\Debug\netcoreapp3.1\Flight_Project.AssemblyInfo.cs
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\bin\Debug\netcoreapp3.1\Flight_Project.exe
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\bin\Debug\netcoreapp3.1\Flight_Project.deps.json
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\bin\Debug\netcoreapp3.1\Flight_Project.runtimeconfig.json
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\bin\Debug\netcoreapp3.1\Flight_Project.runtimeconfig.dev.json
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\bin\Debug\netcoreapp3.1\Flight_Project.dll
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\bin\Debug\netcoreapp3.1\Flight_Project.pdb
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\obj\Debug\netcoreapp3.1\Flight_Project.dll
+C:\Users\Ben\source\repos\Flight_Project\Flight_Project\obj\Debug\netcoreapp3.1\Flight_Project.pdb
